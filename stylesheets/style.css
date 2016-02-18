@@ -51,8 +51,29 @@ Color 1:
 Color 1:
 ***********************************/
 body{
-    background-color:#B541E8;
+    background-color:#0E0017;
 }
-footer{
-    background:#521D68;
+
+.jumbotron{
+
+    background-color:#9A6482;
+    
+}
+.thumbnail{
+    background-color:#9A6482;
+}
+p{
+    color:white;
+}
+h1{
+    color:white;
+}
+h3{
+    color:white;
+}
+article{
+    background-color:#9A6482;
+}
+h2{
+    color:white;
 }
